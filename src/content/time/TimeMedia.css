@@ -1,0 +1,8 @@
+@media (max-width: 400px) {
+    .input {
+        max-width: 70px;
+    }
+    .time-input-group {
+        gap: 5px;
+    }
+}

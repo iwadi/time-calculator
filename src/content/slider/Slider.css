@@ -1,0 +1,21 @@
+.content-section_1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.page-title {
+    padding: 10px;
+    border: none;
+    background-color: #EAF4FF;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #1A3D6D;
+    transition: .3s;
+}
+.page-title:hover {
+    background-color: #2D8EFF;
+    color: #fff;
+}
